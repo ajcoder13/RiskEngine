@@ -1,7 +1,7 @@
 # RiskEngine: AI/NLP Financial Risk Quantification Platform - S&P Global & Crisil Campus Hackathon
 
 **Candidate Name:** Avni Jhalani  
-**College Email ID:** [j.avni@iitg.ac.in]  
+**College Email ID:** j.avni@iitg.ac.in  
 **College :** Indian Institute of Technology Guwahati  
 **Demo Video Link:** https://youtu.be/wT2fqWCrrIs
 **Slide Deck Link:** [docs/presentation.pdf](docs/presentation.pdf) | [docs/presentation.pptx](docs/presentation.pptx)  
