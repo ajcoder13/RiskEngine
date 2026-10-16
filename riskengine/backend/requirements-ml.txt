@@ -1,0 +1,6 @@
+# Heavy NLP stack (FinBERT + zero-shot). Install on the demo machine:
+#   pip install -r requirements-ml.txt
+# The engine falls back to a lexicon scorer if these are missing (flagged in output).
+torch>=2.2
+transformers>=4.41
+sentence-transformers>=3.0

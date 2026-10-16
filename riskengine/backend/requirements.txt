@@ -1,0 +1,13 @@
+# Core (everything the API, Module A, Module B and tests need)
+fastapi>=0.115
+uvicorn[standard]>=0.30
+pydantic>=2.7
+pydantic-settings>=2.3
+python-dotenv>=1.0
+pandas>=2.2
+numpy>=1.26
+scikit-learn>=1.4
+yfinance>=0.2.40
+httpx>=0.27
+rapidfuzz>=3.9
+pytest>=8.0

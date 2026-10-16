@@ -1,0 +1,60 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg
+*.egg-info/
+/dist/
+/build/
+.eggs/
+*.whl
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Database files (generated at runtime — do not commit)
+*.db
+*.sqlite
+*.sqlite3
+signals.db
+riskengine/data/processed/signals.db
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+*.xml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node / Frontend build artefacts
+node_modules/
+# The pre-compiled frontend dist IS committed (no build step needed for judges)
+# riskengine/frontend/dist/
+
+# Logs
+*.log
+
+# Internal helper scripts & prep guides (not part of submission)
+scripts/
+riskengine/scripts/
+docs/DEMO_VIDEO_SCRIPT.md
+docs/JURY_PITCH_GUIDE.md
+riskengine/docs/
