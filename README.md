@@ -3,7 +3,8 @@
 **Candidate Name:** Avni Jhalani  
 **College:** Indian Institute of Technology Guwahati
 **Hackathon:** S&P Global & Crisil Campus Hackathon 2026
-**Demo Video Link:** *(Upload 10-min unlisted YouTube walkthrough and paste link here)*  
+**Demo Video Link:** ..
+
 **Slide Deck:** [docs/presentation.pdf](docs/presentation.pdf) | [docs/presentation.pptx](docs/presentation.pptx)
 
 ---
